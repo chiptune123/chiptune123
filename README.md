@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pham</h1>
 <h3 align="center">A Computer Science student from US</h3>
 - 🌱 I’m currently learning **Node.js, Express.**
+
 - 📫 How to reach me **phamtienphat123@gmail.com**
 <p align="left"></p>
 <h3 align="left">Languages and Tools:</h3>
