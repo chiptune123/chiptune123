@@ -27,6 +27,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="40" height="40" />
     </a>
+    <br>
+    
     <!-- Node.js -->
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -47,6 +49,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" />
     </a>
+    <br>
+    
     <!-- ChartJS s-->
     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
         <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
@@ -64,6 +68,8 @@
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40"
             height="40" />
     </a>
+    <br>
+    
     <!-- MySQL -->
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
