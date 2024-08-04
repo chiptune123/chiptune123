@@ -64,10 +64,6 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=chiptune123&show_icons=true&locale=en&layout=compact"
         alt="chiptune123" />
 </p>
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chiptune123&show_icons=true&locale=en"
-        alt="chiptune123" />
-</p>
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiptune123&" alt="chiptune123" />
 </p>
